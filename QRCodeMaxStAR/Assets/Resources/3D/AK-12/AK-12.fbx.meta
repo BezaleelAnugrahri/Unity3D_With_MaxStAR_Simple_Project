@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 1ea7c4679c503c246a6d00098c9387e2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Belt1
+    100006: Belt1_end
+    100008: Belt2
+    100010: Belt2_end
+    100012: Body
+    100014: Bow1
+    100016: Bow1_end
+    100018: Bow2
+    100020: Bow2_end
+    100022: Cape1_0_0
+    100024: Cape1_0_1
+    100026: Cape1_0_2
+    100028: Cape1_0_3
+    100030: Cape1_1_0
+    100032: Cape1_1_1
+    100034: Cape1_1_2
+    100036: Cape1_1_3
+    100038: Cape1_2_0
+    100040: Cape1_2_1
+    100042: Cape1_2_2
+    100044: Cape1_2_3
+    100046: Cape1_3_0
+    100048: Cape1_3_1
+    100050: Cape1_3_2
+    100052: Cape1_3_3
+    100054: Cape1_4_0
+    100056: Cape1_4_1
+    100058: Cape1_4_2
+    100060: Cape1_4_3
+    100062: Cape1_5_0
+    100064: Cape1_5_0_end
+    100066: Cape1_5_1
+    100068: Cape1_5_1_end
+    100070: Cape1_5_2
+    100072: Cape1_5_2_end
+    100074: Cape1_5_3
+    100076: Cape1_5_3_end
+    100078: Cape2_0_0
+    100080: Cape2_0_1
+    100082: Cape2_0_2
+    100084: Cape2_0_3
+    100086: Cape2_1_0
+    100088: Cape2_1_1
+    100090: Cape2_1_2
+    100092: Cape2_1_3
+    100094: Cape2_2_0
+    100096: Cape2_2_1
+    100098: Cape2_2_2
+    100100: Cape2_2_3
+    100102: Cape2_3_0
+    100104: Cape2_3_1
+    100106: Cape2_3_2
+    100108: Cape2_3_3
+    100110: Cape2_4_0
+    100112: Cape2_4_1
+    100114: Cape2_4_2
+    100116: Cape2_4_3
+    100118: Cape2_5_0
+    100120: Cape2_5_0_end
+    100122: Cape2_5_1
+    100124: Cape2_5_1_end
+    100126: Cape2_5_2
+    100128: Cape2_5_2_end
+    100130: Cape2_5_3
+    100132: Cape2_5_3_end
+    100134: Chest
+    100136: Eye_L
+    100138: Eye_L_end
+    100140: Eye_R
+    100142: Eye_R_end
+    100144: FrontHair_0_0
+    100146: FrontHair_0_0_end
+    100148: FrontHair_0_1
+    100150: FrontHair_0_1_end
+    100152: FrontHair_0_2
+    100154: FrontHair_0_2_end
+    100156: FrontHair_0_3
+    100158: FrontHair_0_3_end
+    100160: Hair_0_1
+    100162: Hair_1_1
+    100164: Hair_2_1
+    100166: Hair_3_1
+    100168: Hair_4_1
+    100170: Hair_5_1
+    100172: Hair_5_1_end
+    100174: Head
+    100176: Hips
+    100178: IndexFinger1_L
+    100180: IndexFinger1_R
+    100182: IndexFinger2_L
+    100184: IndexFinger2_R
+    100186: IndexFinger3_L
+    100188: IndexFinger3_L_end
+    100190: IndexFinger3_R
+    100192: IndexFinger3_R_end
+    100194: Left ankle
+    100196: Left arm
+    100198: Left elbow
+    100200: Left knee
+    100202: Left leg
+    100204: Left shoulder
+    100206: Left toe
+    100208: Left toe_end
+    100210: Left wrist
+    100212: LittleFinger1_L
+    100214: LittleFinger1_R
+    100216: LittleFinger2_L
+    100218: LittleFinger2_R
+    100220: LittleFinger3_L
+    100222: LittleFinger3_L_end
+    100224: LittleFinger3_R
+    100226: LittleFinger3_R_end
+    100228: MiddleFinger1_L
+    100230: MiddleFinger1_R
+    100232: MiddleFinger2_L
+    100234: MiddleFinger2_R
+    100236: MiddleFinger3_L
+    100238: MiddleFinger3_L_end
+    100240: MiddleFinger3_R
+    100242: MiddleFinger3_R_end
+    100244: Neck
+    100246: Right ankle
+    100248: Right arm
+    100250: Right elbow
+    100252: Right knee
+    100254: Right leg
+    100256: Right shoulder
+    100258: Right toe
+    100260: Right toe_end
+    100262: Right wrist
+    100264: RingFinger1_L
+    100266: RingFinger1_R
+    100268: RingFinger2_L
+    100270: RingFinger2_R
+    100272: RingFinger3_L
+    100274: RingFinger3_L_end
+    100276: RingFinger3_R
+    100278: RingFinger3_R_end
+    100280: SideHair_0_1
+    100282: SideHair_0_2
+    100284: SideHair_1_1
+    100286: SideHair_1_2
+    100288: SideHair_2_1
+    100290: SideHair_2_2
+    100292: SideHair_3_1
+    100294: SideHair_3_2
+    100296: SideHair_4_1
+    100298: SideHair_4_1_end
+    100300: SideHair_4_2
+    100302: SideHair_4_2_end
+    100304: Spine
+    100306: Thumb0_L
+    100308: Thumb0_R
+    100310: Thumb1_L
+    100312: Thumb1_R
+    100314: Thumb2_L
+    100316: Thumb2_L_end
+    100318: Thumb2_R
+    100320: Thumb2_R_end
+    400000: //RootNode
+    400002: Armature
+    400004: Belt1
+    400006: Belt1_end
+    400008: Belt2
+    400010: Belt2_end
+    400012: Body
+    400014: Bow1
+    400016: Bow1_end
+    400018: Bow2
+    400020: Bow2_end
+    400022: Cape1_0_0
+    400024: Cape1_0_1
+    400026: Cape1_0_2
+    400028: Cape1_0_3
+    400030: Cape1_1_0
+    400032: Cape1_1_1
+    400034: Cape1_1_2
+    400036: Cape1_1_3
+    400038: Cape1_2_0
+    400040: Cape1_2_1
+    400042: Cape1_2_2
+    400044: Cape1_2_3
+    400046: Cape1_3_0
+    400048: Cape1_3_1
+    400050: Cape1_3_2
+    400052: Cape1_3_3
+    400054: Cape1_4_0
+    400056: Cape1_4_1
+    400058: Cape1_4_2
+    400060: Cape1_4_3
+    400062: Cape1_5_0
+    400064: Cape1_5_0_end
+    400066: Cape1_5_1
+    400068: Cape1_5_1_end
+    400070: Cape1_5_2
+    400072: Cape1_5_2_end
+    400074: Cape1_5_3
+    400076: Cape1_5_3_end
+    400078: Cape2_0_0
+    400080: Cape2_0_1
+    400082: Cape2_0_2
+    400084: Cape2_0_3
+    400086: Cape2_1_0
+    400088: Cape2_1_1
+    400090: Cape2_1_2
+    400092: Cape2_1_3
+    400094: Cape2_2_0
+    400096: Cape2_2_1
+    400098: Cape2_2_2
+    400100: Cape2_2_3
+    400102: Cape2_3_0
+    400104: Cape2_3_1
+    400106: Cape2_3_2
+    400108: Cape2_3_3
+    400110: Cape2_4_0
+    400112: Cape2_4_1
+    400114: Cape2_4_2
+    400116: Cape2_4_3
+    400118: Cape2_5_0
+    400120: Cape2_5_0_end
+    400122: Cape2_5_1
+    400124: Cape2_5_1_end
+    400126: Cape2_5_2
+    400128: Cape2_5_2_end
+    400130: Cape2_5_3
+    400132: Cape2_5_3_end
+    400134: Chest
+    400136: Eye_L
+    400138: Eye_L_end
+    400140: Eye_R
+    400142: Eye_R_end
+    400144: FrontHair_0_0
+    400146: FrontHair_0_0_end
+    400148: FrontHair_0_1
+    400150: FrontHair_0_1_end
+    400152: FrontHair_0_2
+    400154: FrontHair_0_2_end
+    400156: FrontHair_0_3
+    400158: FrontHair_0_3_end
+    400160: Hair_0_1
+    400162: Hair_1_1
+    400164: Hair_2_1
+    400166: Hair_3_1
+    400168: Hair_4_1
+    400170: Hair_5_1
+    400172: Hair_5_1_end
+    400174: Head
+    400176: Hips
+    400178: IndexFinger1_L
+    400180: IndexFinger1_R
+    400182: IndexFinger2_L
+    400184: IndexFinger2_R
+    400186: IndexFinger3_L
+    400188: IndexFinger3_L_end
+    400190: IndexFinger3_R
+    400192: IndexFinger3_R_end
+    400194: Left ankle
+    400196: Left arm
+    400198: Left elbow
+    400200: Left knee
+    400202: Left leg
+    400204: Left shoulder
+    400206: Left toe
+    400208: Left toe_end
+    400210: Left wrist
+    400212: LittleFinger1_L
+    400214: LittleFinger1_R
+    400216: LittleFinger2_L
+    400218: LittleFinger2_R
+    400220: LittleFinger3_L
+    400222: LittleFinger3_L_end
+    400224: LittleFinger3_R
+    400226: LittleFinger3_R_end
+    400228: MiddleFinger1_L
+    400230: MiddleFinger1_R
+    400232: MiddleFinger2_L
+    400234: MiddleFinger2_R
+    400236: MiddleFinger3_L
+    400238: MiddleFinger3_L_end
+    400240: MiddleFinger3_R
+    400242: MiddleFinger3_R_end
+    400244: Neck
+    400246: Right ankle
+    400248: Right arm
+    400250: Right elbow
+    400252: Right knee
+    400254: Right leg
+    400256: Right shoulder
+    400258: Right toe
+    400260: Right toe_end
+    400262: Right wrist
+    400264: RingFinger1_L
+    400266: RingFinger1_R
+    400268: RingFinger2_L
+    400270: RingFinger2_R
+    400272: RingFinger3_L
+    400274: RingFinger3_L_end
+    400276: RingFinger3_R
+    400278: RingFinger3_R_end
+    400280: SideHair_0_1
+    400282: SideHair_0_2
+    400284: SideHair_1_1
+    400286: SideHair_1_2
+    400288: SideHair_2_1
+    400290: SideHair_2_2
+    400292: SideHair_3_1
+    400294: SideHair_3_2
+    400296: SideHair_4_1
+    400298: SideHair_4_1_end
+    400300: SideHair_4_2
+    400302: SideHair_4_2_end
+    400304: Spine
+    400306: Thumb0_L
+    400308: Thumb0_R
+    400310: Thumb1_L
+    400312: Thumb1_R
+    400314: Thumb2_L
+    400316: Thumb2_L_end
+    400318: Thumb2_R
+    400320: Thumb2_R_end
+    2100000: hairbow
+    2100002: collarin
+    2100004: defy
+    2100006: waist
+    2100008: bootsole
+    4300000: Body
+    9500000: //RootNode
+    13700000: Body
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
